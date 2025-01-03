@@ -66,10 +66,10 @@ const kristofher: JuniorDeveloper = {
 
 ## 📚 Current Learning Path
 
-📚 Aprendizaje de conceptos básicos de desarrollo web
-🛠️ Construir proyectos de portafolio
-🤝 Conectar con otros desarrolladores
-📝 Documentar mi viaje de aprendizaje
+- 📚 Learning core web development concepts
+- 🛠️ Building portfolio projects
+- 🤝 Connecting with other developers
+- 📝 Documenting my learning journey
 
 ## 🎯 Projects & Progress
 
