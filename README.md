@@ -61,9 +61,8 @@ const kristofher: JuniorDeveloper = {
 
 ## 🛠️ Technologies I'm Learning
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,vscode&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,nextjs,tailwind,cs,dotnet,bootstrap,mui,git,kotlin,csharp,sql,npm,mongodb,entityframework,graphql,postman,firebase,shadcn&theme=dark" alt="Tech Stack" />
 
-</div>
 
 ## 📚 Current Learning Path
 
