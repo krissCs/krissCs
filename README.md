@@ -23,7 +23,7 @@ I am a junior full-stack developer who really enjoys creating efficient solution
 
 ```typescript
 const kristofher = {
-    role: "Full Stack Developer",
+    role: "Junior Full Stack Developer",
     code: ["JavaScript", "C#", "Python", "Kotlin", "SQL"],
     technologies: {
         frontEnd: {
