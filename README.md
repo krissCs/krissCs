@@ -66,10 +66,10 @@ const kristofher: JuniorDeveloper = {
 
 ## 📚 Current Learning Path
 
-- 🌱 Strengthening my JavaScript fundamentals
-- 💻 Building projects with React
-- 📱 Learning responsive design principles
-- 🔧 Understanding backend basics with Node.js
+📚 Aprendizaje de conceptos básicos de desarrollo web
+🛠️ Construir proyectos de portafolio
+🤝 Conectar con otros desarrolladores
+📝 Documentar mi viaje de aprendizaje
 
 ## 🎯 Projects & Progress
 
