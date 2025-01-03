@@ -1,109 +1,139 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Kristofher%20Salcedo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Creative%20Problem%20Solver&descAlignY=51&descAlign=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,14,16,18,20,22&text=Kristofher%20Salcedo&fontSize=60&desc=Junior%20Developer%20%7C%20Future%20Full-Stack%20Engineer&animation=fadeIn&fontColor=FFFFFF&strokeWidth=2)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Building+Digital+Solutions;Crafting+User+Experiences;Always+Learning+%26+Growing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Learning+and+Growing+Every+Day+%F0%9F%8C%B1;Building+My+Path+in+Tech+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
-## 🌟 Welcome to My Digital Space
+<div align="center">
+  
+[![GitHub followers](https://img.shields.io/github/followers/krissCs?style=for-the-badge&color=6366F1&labelColor=1F2937&logo=github)](https://github.com/krissCs)
+[![Twitter Follow](https://img.shields.io/twitter/follow/krissCs?style=for-the-badge&color=6366F1&labelColor=1F2937&logo=twitter)](https://twitter.com/krissCs)
 
-> *"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."* - Patrick McKenzie
+</div>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation">
+## 🌱 My Learning Journey
 
-## 💫 About Me
+```typescript
+interface JuniorDeveloper {
+  name: string;
+  currentFocus: string[];
+  learning: Technologies;
+  interests: string[];
+  goals: string[];
+}
 
-```javascript
-const kristofher = {
-    role: "Full Stack Developer",
-    location: "Digital Nomad 🌎",
-    passions: ["Clean Code", "Innovation", "Problem Solving"],
-    skills: {
-        languages: ["JavaScript", "C#", "Python", "Kotlin"],
-        frontend: ["React", "Next.js", "Tailwind CSS"],
-        backend: ["ASP.NET Core", "Node.js", "Express"],
-        mobile: ["React Native", "Kotlin"],
-        cloud: ["Azure", "AWS"],
-        architecture: ["Microservices", "Clean Architecture"]
-    },
-    currentlyLearning: ["AI/ML", "Cloud Architecture"],
-    funFact: "I believe coffee is just a programming catalyst ☕"
+interface Technologies {
+  frontend: string[];
+  backend: string[];
+  tools: string[];
+}
+
+const kristofher: JuniorDeveloper = {
+  name: "Kristofher Salcedo",
+  currentFocus: [
+    "Building Strong Fundamentals",
+    "Frontend Development",
+    "Learning Backend Concepts"
+  ],
+  learning: {
+    frontend: ["HTML", "CSS", "JavaScript", "React"],
+    backend: ["Node.js", "Express", "Basic Database Concepts"],
+    tools: ["Git", "VS Code", "Terminal"]
+  },
+  interests: [
+    "Web Development",
+    "User Experience",
+    "Problem Solving",
+    "Clean Code Practices"
+  ],
+  goals: [
+    "Master Frontend Fundamentals",
+    "Build Full-Stack Applications",
+    "Contribute to Open Source",
+    "Grow as a Developer"
+  ]
 };
 ```
 
 <div align="center">
-    <img src="https://github-stats-alpha.vercel.app/api?username=krissCs&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats">
-</div>
 
-## 🛠️ Tech Arsenal
+## 🛠️ Technologies I'm Learning
 
-<div align="center">
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 💻 Backend
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### 📱 Mobile
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### 🗄️ Database & Cloud
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,vscode&theme=dark" alt="Tech Stack" />
 
 </div>
 
-## 📊 GitHub Analytics
+## 📚 Current Learning Path
+
+- 🌱 Strengthening my JavaScript fundamentals
+- 💻 Building projects with React
+- 📱 Learning responsive design principles
+- 🔧 Understanding backend basics with Node.js
+
+## 🎯 Projects & Progress
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=krissCs&theme=tokyonight" alt="GitHub Streak Stats">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=krissCs&show_icons=true&theme=transparent&bg_color=0D1117&hide_border=true&icon_color=6366F1&title_color=6366F1&text_color=ffffff" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=krissCs&theme=transparent&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6366F1&sideLabels=6366F1&dates=FFFFFF" />
 </div>
 
+## 🌟 My Development Journey
+
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krissCs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krissCs&layout=compact&langs_count=8&theme=tokyonight"/>
+
+```mermaid
+graph LR
+    A[Learn] -->|Practice| B[Build]
+    B -->|Review| C[Improve]
+    C -->|Share| D[Grow]
+    D -->|Repeat| A
+```
+
 </div>
 
-## 🎯 2025 Vision
-- 🚀 Master cloud-native architectures
-- 🌟 Lead innovative open-source projects
-- 🤖 Develop AI-powered solutions
-- 📚 Mentor aspiring developers
+## 🎯 Current Focus
 
-## 🤝 Let's Connect
+- 📚 Learning core web development concepts
+- 🛠️ Building portfolio projects
+- 🤝 Connecting with other developers
+- 📝 Documenting my learning journey
+
+## 🤝 Let's Connect!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krissCs)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kristofher.salcedo@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/krissCs)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-6366F1?style=for-the-badge&logo=twitter)](https://twitter.com/krissCs)
 
 <details>
-<summary>💭 Inspirational Quote</summary>
+<summary>✨ My Developer Philosophy</summary>
 <br>
-    
-```javascript
-function life() {
+
+```typescript
+function growAsDeveloper(): Promise<Success> {
+  return new Promise(resolve => {
     while (true) {
-        learn();
-        build();
-        share();
-        repeat();
+      learn();
+      practice();
+      fail();
+      improve();
+      // Growth is a continuous journey
     }
+  });
 }
 ```
 </details>
 
-![Profile Views](https://komarev.com/ghpvc/?username=krissCs&color=6366f1&style=flat-square&label=Profile+Views)
+</div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer)
+<div align="center">
+
+### 👋 Visitors
+
+![Profile Views](https://komarev.com/ghpvc/?username=krissCs&color=6366F1&style=for-the-badge&label=VISITORS)
 
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,14,16,18,20,22&section=footer&text=Let's%20Code%20and%20Learn%20Together!&fontSize=40&fontColor=FFFFFF&animation=fadeIn)
